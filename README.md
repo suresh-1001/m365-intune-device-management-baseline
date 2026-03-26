@@ -32,6 +32,9 @@ This project documents the design and implementation of a Microsoft Intune envir
 | Remote Access | Tailscale + RDP (secure, no open firewall ports) |
 | Hardware | ASUS ExpertCenter, HP All-in-One, Dell Latitude, Lenovo |
 
+## Architecture
+
+![Intune Architecture](diagrams/intune-architecture.png)
 ---
 
 ## Deployment Phases
