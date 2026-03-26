@@ -5,6 +5,8 @@
 ![Azure AD](https://img.shields.io/badge/Azure-Entra%20ID-0078D4?logo=microsoftazure)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
+![Microsoft Intune Endpoint Manager](diagrams/microsoft-intune-endpoint-manager.png)
+
 End-to-end deployment of Microsoft Intune (Endpoint Manager) for centralized device management, application lockdown, and security policy enforcement across Windows 10/11 devices in a cloud-managed environment.
 
 > Designed for organizations requiring centralized device control, restricted application access, and compliance monitoring via Microsoft 365 and Entra ID.
