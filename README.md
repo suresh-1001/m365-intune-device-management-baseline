@@ -15,6 +15,8 @@ End-to-end deployment of Microsoft Intune (Endpoint Manager) for centralized dev
 
 This project documents the design and implementation of a Microsoft Intune environment for a multi-device Windows organization (SMB, India, 2026). The goal was to create a locked-down, standardized workstation environment where employees could only access approved applications and websites, while preventing data exfiltration and unauthorized system changes.
 
+![Email Authentication Flow](diagrams/microsoft-intune-endpoint-manager.png)
+
 **Environment scale:** 14 enrolled devices across ASUS, HP, Dell, and Lenovo hardware — all compliant at project completion.
 
 ---
